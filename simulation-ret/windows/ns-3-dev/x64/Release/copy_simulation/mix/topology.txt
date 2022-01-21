@@ -1,0 +1,493 @@
+306 18 360
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+0 6 100Gbps 0.001ms 0
+0 7 100Gbps 0.001ms 0
+0 8 100Gbps 0.001ms 0
+0 9 100Gbps 0.001ms 0
+0 10 100Gbps 0.001ms 0
+0 11 100Gbps 0.001ms 0
+0 12 100Gbps 0.001ms 0
+0 13 100Gbps 0.001ms 0
+0 14 100Gbps 0.001ms 0
+0 15 100Gbps 0.001ms 0
+0 16 100Gbps 0.001ms 0
+0 17 100Gbps 0.001ms 0
+1 6 100Gbps 0.001ms 0
+1 7 100Gbps 0.001ms 0
+1 8 100Gbps 0.001ms 0
+1 9 100Gbps 0.001ms 0
+1 10 100Gbps 0.001ms 0
+1 11 100Gbps 0.001ms 0
+1 12 100Gbps 0.001ms 0
+1 13 100Gbps 0.001ms 0
+1 14 100Gbps 0.001ms 0
+1 15 100Gbps 0.001ms 0
+1 16 100Gbps 0.001ms 0
+1 17 100Gbps 0.001ms 0
+2 6 100Gbps 0.001ms 0
+2 7 100Gbps 0.001ms 0
+2 8 100Gbps 0.001ms 0
+2 9 100Gbps 0.001ms 0
+2 10 100Gbps 0.001ms 0
+2 11 100Gbps 0.001ms 0
+2 12 100Gbps 0.001ms 0
+2 13 100Gbps 0.001ms 0
+2 14 100Gbps 0.001ms 0
+2 15 100Gbps 0.001ms 0
+2 16 100Gbps 0.001ms 0
+2 17 100Gbps 0.001ms 0
+3 6 100Gbps 0.001ms 0
+3 7 100Gbps 0.001ms 0
+3 8 100Gbps 0.001ms 0
+3 9 100Gbps 0.001ms 0
+3 10 100Gbps 0.001ms 0
+3 11 100Gbps 0.001ms 0
+3 12 100Gbps 0.001ms 0
+3 13 100Gbps 0.001ms 0
+3 14 100Gbps 0.001ms 0
+3 15 100Gbps 0.001ms 0
+3 16 100Gbps 0.001ms 0
+3 17 100Gbps 0.001ms 0
+4 6 100Gbps 0.001ms 0
+4 7 100Gbps 0.001ms 0
+4 8 100Gbps 0.001ms 0
+4 9 100Gbps 0.001ms 0
+4 10 100Gbps 0.001ms 0
+4 11 100Gbps 0.001ms 0
+4 12 100Gbps 0.001ms 0
+4 13 100Gbps 0.001ms 0
+4 14 100Gbps 0.001ms 0
+4 15 100Gbps 0.001ms 0
+4 16 100Gbps 0.001ms 0
+4 17 100Gbps 0.001ms 0
+5 6 100Gbps 0.001ms 0
+5 7 100Gbps 0.001ms 0
+5 8 100Gbps 0.001ms 0
+5 9 100Gbps 0.001ms 0
+5 10 100Gbps 0.001ms 0
+5 11 100Gbps 0.001ms 0
+5 12 100Gbps 0.001ms 0
+5 13 100Gbps 0.001ms 0
+5 14 100Gbps 0.001ms 0
+5 15 100Gbps 0.001ms 0
+5 16 100Gbps 0.001ms 0
+5 17 100Gbps 0.001ms 0
+6 18 25Gbps 0.001ms 0
+6 19 25Gbps 0.001ms 0
+6 20 25Gbps 0.001ms 0
+6 21 25Gbps 0.001ms 0
+6 22 25Gbps 0.001ms 0
+6 23 25Gbps 0.001ms 0
+6 24 25Gbps 0.001ms 0
+6 25 25Gbps 0.001ms 0
+6 26 25Gbps 0.001ms 0
+6 27 25Gbps 0.001ms 0
+6 28 25Gbps 0.001ms 0
+6 29 25Gbps 0.001ms 0
+6 30 25Gbps 0.001ms 0
+6 31 25Gbps 0.001ms 0
+6 32 25Gbps 0.001ms 0
+6 33 25Gbps 0.001ms 0
+6 34 25Gbps 0.001ms 0
+6 35 25Gbps 0.001ms 0
+6 36 25Gbps 0.001ms 0
+6 37 25Gbps 0.001ms 0
+6 38 25Gbps 0.001ms 0
+6 39 25Gbps 0.001ms 0
+6 40 25Gbps 0.001ms 0
+6 41 25Gbps 0.001ms 0
+7 42 25Gbps 0.001ms 0
+7 43 25Gbps 0.001ms 0
+7 44 25Gbps 0.001ms 0
+7 45 25Gbps 0.001ms 0
+7 46 25Gbps 0.001ms 0
+7 47 25Gbps 0.001ms 0
+7 48 25Gbps 0.001ms 0
+7 49 25Gbps 0.001ms 0
+7 50 25Gbps 0.001ms 0
+7 51 25Gbps 0.001ms 0
+7 52 25Gbps 0.001ms 0
+7 53 25Gbps 0.001ms 0
+7 54 25Gbps 0.001ms 0
+7 55 25Gbps 0.001ms 0
+7 56 25Gbps 0.001ms 0
+7 57 25Gbps 0.001ms 0
+7 58 25Gbps 0.001ms 0
+7 59 25Gbps 0.001ms 0
+7 60 25Gbps 0.001ms 0
+7 61 25Gbps 0.001ms 0
+7 62 25Gbps 0.001ms 0
+7 63 25Gbps 0.001ms 0
+7 64 25Gbps 0.001ms 0
+7 65 25Gbps 0.001ms 0
+8 66 25Gbps 0.001ms 0
+8 67 25Gbps 0.001ms 0
+8 68 25Gbps 0.001ms 0
+8 69 25Gbps 0.001ms 0
+8 70 25Gbps 0.001ms 0
+8 71 25Gbps 0.001ms 0
+8 72 25Gbps 0.001ms 0
+8 73 25Gbps 0.001ms 0
+8 74 25Gbps 0.001ms 0
+8 75 25Gbps 0.001ms 0
+8 76 25Gbps 0.001ms 0
+8 77 25Gbps 0.001ms 0
+8 78 25Gbps 0.001ms 0
+8 79 25Gbps 0.001ms 0
+8 80 25Gbps 0.001ms 0
+8 81 25Gbps 0.001ms 0
+8 82 25Gbps 0.001ms 0
+8 83 25Gbps 0.001ms 0
+8 84 25Gbps 0.001ms 0
+8 85 25Gbps 0.001ms 0
+8 86 25Gbps 0.001ms 0
+8 87 25Gbps 0.001ms 0
+8 88 25Gbps 0.001ms 0
+8 89 25Gbps 0.001ms 0
+9 90 25Gbps 0.001ms 0
+9 91 25Gbps 0.001ms 0
+9 92 25Gbps 0.001ms 0
+9 93 25Gbps 0.001ms 0
+9 94 25Gbps 0.001ms 0
+9 95 25Gbps 0.001ms 0
+9 96 25Gbps 0.001ms 0
+9 97 25Gbps 0.001ms 0
+9 98 25Gbps 0.001ms 0
+9 99 25Gbps 0.001ms 0
+9 100 25Gbps 0.001ms 0
+9 101 25Gbps 0.001ms 0
+9 102 25Gbps 0.001ms 0
+9 103 25Gbps 0.001ms 0
+9 104 25Gbps 0.001ms 0
+9 105 25Gbps 0.001ms 0
+9 106 25Gbps 0.001ms 0
+9 107 25Gbps 0.001ms 0
+9 108 25Gbps 0.001ms 0
+9 109 25Gbps 0.001ms 0
+9 110 25Gbps 0.001ms 0
+9 111 25Gbps 0.001ms 0
+9 112 25Gbps 0.001ms 0
+9 113 25Gbps 0.001ms 0
+10 114 25Gbps 0.001ms 0
+10 115 25Gbps 0.001ms 0
+10 116 25Gbps 0.001ms 0
+10 117 25Gbps 0.001ms 0
+10 118 25Gbps 0.001ms 0
+10 119 25Gbps 0.001ms 0
+10 120 25Gbps 0.001ms 0
+10 121 25Gbps 0.001ms 0
+10 122 25Gbps 0.001ms 0
+10 123 25Gbps 0.001ms 0
+10 124 25Gbps 0.001ms 0
+10 125 25Gbps 0.001ms 0
+10 126 25Gbps 0.001ms 0
+10 127 25Gbps 0.001ms 0
+10 128 25Gbps 0.001ms 0
+10 129 25Gbps 0.001ms 0
+10 130 25Gbps 0.001ms 0
+10 131 25Gbps 0.001ms 0
+10 132 25Gbps 0.001ms 0
+10 133 25Gbps 0.001ms 0
+10 134 25Gbps 0.001ms 0
+10 135 25Gbps 0.001ms 0
+10 136 25Gbps 0.001ms 0
+10 137 25Gbps 0.001ms 0
+11 138 25Gbps 0.001ms 0
+11 139 25Gbps 0.001ms 0
+11 140 25Gbps 0.001ms 0
+11 141 25Gbps 0.001ms 0
+11 142 25Gbps 0.001ms 0
+11 143 25Gbps 0.001ms 0
+11 144 25Gbps 0.001ms 0
+11 145 25Gbps 0.001ms 0
+11 146 25Gbps 0.001ms 0
+11 147 25Gbps 0.001ms 0
+11 148 25Gbps 0.001ms 0
+11 149 25Gbps 0.001ms 0
+11 150 25Gbps 0.001ms 0
+11 151 25Gbps 0.001ms 0
+11 152 25Gbps 0.001ms 0
+11 153 25Gbps 0.001ms 0
+11 154 25Gbps 0.001ms 0
+11 155 25Gbps 0.001ms 0
+11 156 25Gbps 0.001ms 0
+11 157 25Gbps 0.001ms 0
+11 158 25Gbps 0.001ms 0
+11 159 25Gbps 0.001ms 0
+11 160 25Gbps 0.001ms 0
+11 161 25Gbps 0.001ms 0
+12 162 25Gbps 0.001ms 0
+12 163 25Gbps 0.001ms 0
+12 164 25Gbps 0.001ms 0
+12 165 25Gbps 0.001ms 0
+12 166 25Gbps 0.001ms 0
+12 167 25Gbps 0.001ms 0
+12 168 25Gbps 0.001ms 0
+12 169 25Gbps 0.001ms 0
+12 170 25Gbps 0.001ms 0
+12 171 25Gbps 0.001ms 0
+12 172 25Gbps 0.001ms 0
+12 173 25Gbps 0.001ms 0
+12 174 25Gbps 0.001ms 0
+12 175 25Gbps 0.001ms 0
+12 176 25Gbps 0.001ms 0
+12 177 25Gbps 0.001ms 0
+12 178 25Gbps 0.001ms 0
+12 179 25Gbps 0.001ms 0
+12 180 25Gbps 0.001ms 0
+12 181 25Gbps 0.001ms 0
+12 182 25Gbps 0.001ms 0
+12 183 25Gbps 0.001ms 0
+12 184 25Gbps 0.001ms 0
+12 185 25Gbps 0.001ms 0
+13 186 25Gbps 0.001ms 0
+13 187 25Gbps 0.001ms 0
+13 188 25Gbps 0.001ms 0
+13 189 25Gbps 0.001ms 0
+13 190 25Gbps 0.001ms 0
+13 191 25Gbps 0.001ms 0
+13 192 25Gbps 0.001ms 0
+13 193 25Gbps 0.001ms 0
+13 194 25Gbps 0.001ms 0
+13 195 25Gbps 0.001ms 0
+13 196 25Gbps 0.001ms 0
+13 197 25Gbps 0.001ms 0
+13 198 25Gbps 0.001ms 0
+13 199 25Gbps 0.001ms 0
+13 200 25Gbps 0.001ms 0
+13 201 25Gbps 0.001ms 0
+13 202 25Gbps 0.001ms 0
+13 203 25Gbps 0.001ms 0
+13 204 25Gbps 0.001ms 0
+13 205 25Gbps 0.001ms 0
+13 206 25Gbps 0.001ms 0
+13 207 25Gbps 0.001ms 0
+13 208 25Gbps 0.001ms 0
+13 209 25Gbps 0.001ms 0
+14 210 25Gbps 0.001ms 0
+14 211 25Gbps 0.001ms 0
+14 212 25Gbps 0.001ms 0
+14 213 25Gbps 0.001ms 0
+14 214 25Gbps 0.001ms 0
+14 215 25Gbps 0.001ms 0
+14 216 25Gbps 0.001ms 0
+14 217 25Gbps 0.001ms 0
+14 218 25Gbps 0.001ms 0
+14 219 25Gbps 0.001ms 0
+14 220 25Gbps 0.001ms 0
+14 221 25Gbps 0.001ms 0
+14 222 25Gbps 0.001ms 0
+14 223 25Gbps 0.001ms 0
+14 224 25Gbps 0.001ms 0
+14 225 25Gbps 0.001ms 0
+14 226 25Gbps 0.001ms 0
+14 227 25Gbps 0.001ms 0
+14 228 25Gbps 0.001ms 0
+14 229 25Gbps 0.001ms 0
+14 230 25Gbps 0.001ms 0
+14 231 25Gbps 0.001ms 0
+14 232 25Gbps 0.001ms 0
+14 233 25Gbps 0.001ms 0
+15 234 25Gbps 0.001ms 0
+15 235 25Gbps 0.001ms 0
+15 236 25Gbps 0.001ms 0
+15 237 25Gbps 0.001ms 0
+15 238 25Gbps 0.001ms 0
+15 239 25Gbps 0.001ms 0
+15 240 25Gbps 0.001ms 0
+15 241 25Gbps 0.001ms 0
+15 242 25Gbps 0.001ms 0
+15 243 25Gbps 0.001ms 0
+15 244 25Gbps 0.001ms 0
+15 245 25Gbps 0.001ms 0
+15 246 25Gbps 0.001ms 0
+15 247 25Gbps 0.001ms 0
+15 248 25Gbps 0.001ms 0
+15 249 25Gbps 0.001ms 0
+15 250 25Gbps 0.001ms 0
+15 251 25Gbps 0.001ms 0
+15 252 25Gbps 0.001ms 0
+15 253 25Gbps 0.001ms 0
+15 254 25Gbps 0.001ms 0
+15 255 25Gbps 0.001ms 0
+15 256 25Gbps 0.001ms 0
+15 257 25Gbps 0.001ms 0
+16 258 25Gbps 0.001ms 0
+16 259 25Gbps 0.001ms 0
+16 260 25Gbps 0.001ms 0
+16 261 25Gbps 0.001ms 0
+16 262 25Gbps 0.001ms 0
+16 263 25Gbps 0.001ms 0
+16 264 25Gbps 0.001ms 0
+16 265 25Gbps 0.001ms 0
+16 266 25Gbps 0.001ms 0
+16 267 25Gbps 0.001ms 0
+16 268 25Gbps 0.001ms 0
+16 269 25Gbps 0.001ms 0
+16 270 25Gbps 0.001ms 0
+16 271 25Gbps 0.001ms 0
+16 272 25Gbps 0.001ms 0
+16 273 25Gbps 0.001ms 0
+16 274 25Gbps 0.001ms 0
+16 275 25Gbps 0.001ms 0
+16 276 25Gbps 0.001ms 0
+16 277 25Gbps 0.001ms 0
+16 278 25Gbps 0.001ms 0
+16 279 25Gbps 0.001ms 0
+16 280 25Gbps 0.001ms 0
+16 281 25Gbps 0.001ms 0
+17 282 25Gbps 0.001ms 0
+17 283 25Gbps 0.001ms 0
+17 284 25Gbps 0.001ms 0
+17 285 25Gbps 0.001ms 0
+17 286 25Gbps 0.001ms 0
+17 287 25Gbps 0.001ms 0
+17 288 25Gbps 0.001ms 0
+17 289 25Gbps 0.001ms 0
+17 290 25Gbps 0.001ms 0
+17 291 25Gbps 0.001ms 0
+17 292 25Gbps 0.001ms 0
+17 293 25Gbps 0.001ms 0
+17 294 25Gbps 0.001ms 0
+17 295 25Gbps 0.001ms 0
+17 296 25Gbps 0.001ms 0
+17 297 25Gbps 0.001ms 0
+17 298 25Gbps 0.001ms 0
+17 299 25Gbps 0.001ms 0
+17 300 25Gbps 0.001ms 0
+17 301 25Gbps 0.001ms 0
+17 302 25Gbps 0.001ms 0
+17 303 25Gbps 0.001ms 0
+17 304 25Gbps 0.001ms 0
+17 305 25Gbps 0.001ms 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+65 1 64
+0
+0 1 25Gbps 0.001ms 0 
+0 2 25Gbps 0.001ms 0
+0 3 25Gbps 0.001ms 0
+0 4 25Gbps 0.001ms 0
+0 5 25Gbps 0.001ms 0
+0 6 25Gbps 0.001ms 0
+0 7 25Gbps 0.001ms 0
+0 8 25Gbps 0.001ms 0
+0 9 25Gbps 0.001ms 0
+0 10 25Gbps 0.001ms 0
+0 11 25Gbps 0.001ms 0
+0 12 25Gbps 0.001ms 0
+0 13 25Gbps 0.001ms 0
+0 14 25Gbps 0.001ms 0
+0 15 25Gbps 0.001ms 0
+0 16 25Gbps 0.001ms 0
+0 17 25Gbps 0.001ms 0
+0 18 25Gbps 0.001ms 0
+0 19 25Gbps 0.001ms 0
+0 20 25Gbps 0.001ms 0
+0 21 25Gbps 0.001ms 0
+0 22 25Gbps 0.001ms 0
+0 23 25Gbps 0.001ms 0
+0 24 25Gbps 0.001ms 0
+0 25 25Gbps 0.001ms 0
+0 26 25Gbps 0.001ms 0
+0 27 25Gbps 0.001ms 0
+0 28 25Gbps 0.001ms 0
+0 29 25Gbps 0.001ms 0
+0 30 25Gbps 0.001ms 0
+0 31 25Gbps 0.001ms 0
+0 32 25Gbps 0.001ms 0
+0 33 25Gbps 0.001ms 0
+0 34 25Gbps 0.001ms 0
+0 35 25Gbps 0.001ms 0
+0 36 25Gbps 0.001ms 0
+0 37 25Gbps 0.001ms 0
+0 38 25Gbps 0.001ms 0
+0 39 25Gbps 0.001ms 0
+0 40 25Gbps 0.001ms 0
+0 41 25Gbps 0.001ms 0
+0 42 25Gbps 0.001ms 0
+0 43 25Gbps 0.001ms 0
+0 44 25Gbps 0.001ms 0
+0 45 25Gbps 0.001ms 0
+0 46 25Gbps 0.001ms 0
+0 47 25Gbps 0.001ms 0
+0 48 25Gbps 0.001ms 0
+0 49 25Gbps 0.001ms 0
+0 50 25Gbps 0.001ms 0
+0 51 25Gbps 0.001ms 0
+0 52 25Gbps 0.001ms 0
+0 53 25Gbps 0.001ms 0
+0 54 25Gbps 0.001ms 0
+0 55 25Gbps 0.001ms 0
+0 56 25Gbps 0.001ms 0
+0 57 25Gbps 0.001ms 0
+0 58 25Gbps 0.001ms 0
+0 59 25Gbps 0.001ms 0
+0 60 25Gbps 0.001ms 0
+0 61 25Gbps 0.001ms 0
+0 62 25Gbps 0.001ms 0
+0 63 25Gbps 0.001ms 0
+0 64 25Gbps 0.001ms 0
+
+
+First line: total node #, switch node #, link #
+Second line: switch node IDs...
+src0 dst0 rate delay error_rate
+src1 dst1 rate delay error_rate
+...
+
+4 1 3
+0
+0 1 25Gbps 0.001ms 0
+0 2 25Gbps 0.001ms 0
+0 3 25Gbps 0.001ms 0
+
+
+
+
+10 4 9
+0 1 2 3
+4 0 25Gbps 0.001ms 0
+5 3 25Gbps 0.001ms 0
+6 0 25Gbps 0.001ms 0
+7 1 25Gbps 0.001ms 0
+8 2 25Gbps 0.001ms 0
+9 3 25Gbps 0.001ms 0
+0 1 25Gbps 0.001ms 0
+1 2 25Gbps 0.001ms 0
+2 3 25Gbps 0.001ms 0
+
+
+
+

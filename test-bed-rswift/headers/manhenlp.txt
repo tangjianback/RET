@@ -1,0 +1,16 @@
+1） 如何快速的使用?
+主要包含两个程序，一个是放端程序，一个是接受端的程序。
+接受端程序./rc_pingpong_server -p 连接端口号 -i 本程序应该接受的segments数量
+发送端程序./rc_pingpong_client -p 连接端口号 -z 本程序标志的序号(简单使用填1)
+其中修改client的发送的segments数量实在rc_client.hpp中修改。 flow_num = 1 && flow_iters = x;
+需要对cilent发送64signal.
+
+2) 一个程序开启多条流?
+发送端可以使用线程开启多个发送流，在rc_client.hpp修改流的数量和每个流的发送seg数量。总数量应该和接收端
+的接受数量相同。
+
+3) 自动化同时并发多条流?
+先开启执行multy_flow_server开启多个等待连接进程
+然后在发送端，执行multy_flow_client开启多个连接的进程。注意两者的开始的端口号需要相同。等待发送程序
+都准备发送数据的时候，同时使用multy_flow_client发送信号开始执行程序。
+注意查看是否会产生僵尸进程。
